@@ -1,0 +1,41 @@
+
+.updates{
+    background-color: #DDDDDD;
+    color: black;
+} 
+
+.upd1{
+    display: flex;
+    border-left: 2px;
+}
+
+.updateschild{
+    flex: 1;
+    font-size: 18px;
+    margin-left: 180px;
+    margin-right: 150px;
+}
+
+.updhead{
+    margin-top: 0px;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 15px;
+    font-family:'Courier New', Courier, monospace
+}
+
+.links{
+    font-weight: 200;
+    text-decoration: none;
+    color: #444444;
+    font-style: italic;
+}
+
+.bottomhr{
+    width: 5%;
+    border-top: 1px dotted;
+}
+
+.bottomline{
+    text-align: center;
+}

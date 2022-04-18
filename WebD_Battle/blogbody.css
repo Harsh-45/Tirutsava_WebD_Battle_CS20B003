@@ -1,0 +1,73 @@
+body{
+    background-color: #F2F2F2;
+}
+
+.welhead{
+    text-align: center;
+    padding-left: 620px;
+    font-size: 50;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.welP{
+    font-size: 23px;
+    font-style: oblique;
+}
+
+.titleh{
+    margin-top: 0;
+    padding-top: 10px;
+    font-size: 35px;
+    text-align: center;
+    padding-left: 20px;
+    font-family:'Courier New', Courier, monospace
+}
+
+.date{
+    text-align: center;
+}
+
+.parab{
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.listB{
+    padding-left: 640px;
+}
+
+.listB li{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.listB li a{
+    text-decoration: none;
+    color:#383838;
+    font-style: italic;
+}
+
+.imgi{
+    width: 350px;
+    height: 150px;
+    padding-right: 60px;
+    padding-left: 80px;
+    float: left;
+}
+.links{
+    font-weight: 200;
+    text-decoration: none;
+    color: #444444;
+    font-style: italic;
+    font-weight:bolder
+}
+
+.bottomhr{
+    width: 5%;
+    border-top: 1px dotted;
+}
+
+.bottomline{
+    text-align: center;
+}
